@@ -1,0 +1,51 @@
+#grid-container {
+    text-align: center;
+    padding: 50px 0px 50px 0px;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 50pt;
+    margin: 0px 20px 0px 20px;
+    font-family: 'Oswald', sans-serif;
+}
+
+a.year:link {
+    color: paleturquoise;
+    text-shadow: 0px 0px 6px darkslategrey;
+}
+
+a.year:hover {
+    color: #FFF6EB;
+}
+
+nav {
+    text-align: center;
+    padding: 55px 0px 30px 0px;
+}
+
+#grad {
+    height: 2000;
+    background: -webkit-linear-gradient(#00738e, #00a99d, #85ABA7, #A38FA9); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#00738e, #00a99d, #85ABA7, #A38FA9); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#00738e, #00a99d, #85ABA7, #A38FA9); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#005DA9, #00a99d, #85ABA7, #A38FA9, #82619E, #3E4090); /* Standard syntax (must be last) */
+}
+
+.floating-box {
+    height: 240px;
+    width: 240px;
+    background-color: #FFF6EB;
+    margin: 10px 10px 10px 10px;
+    display: inline-block;
+    background: linear-gradient(rgba(255,246,235,.9), rgba(255,246,235,.7));
+}
+
+#copyright {
+    text-align: center;
+}
+
+
+
+
+
